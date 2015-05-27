@@ -49,6 +49,7 @@ label.hellothere=你好啊！
 label.logindetails=请验证您的Minecraft帐户。
 label.emailusername=电子邮箱/用户名
 label.password=密码
+label.chooselanguage=切换语言
 
 messagebox.installfailed=载入失败。
 messagebox.minecraftdownloadfailed=无法下载mMnecraft.jar！
